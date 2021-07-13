@@ -1,4 +1,4 @@
-# soal-penyisihan-gemastik-11
+# Soal Penyisihan Gemastik 11
 
 ## 1. Urutan Aneh
 
